@@ -6,10 +6,10 @@ The map below shows drop off locations, 1 mile rings around them, and population
 
 ![Glass recycling map](glass_recycling_map.png)
 
-The Arlington County Trades Center drop off in Shirlington is closer to some neighborhoods than any Alexandria drop off, but the Arlington signs and website say their drop offs are “Available to [Arlington] residents.” 
+The Arlington County Trades Center drop off in Shirlington is closer to some neighborhoods than any Alexandria drop off, but the Arlington signs and website say their drop offs are “Available to [Arlington] residents.”  Establishing reciprocity among that opens all purple can drop offs to all Northern Virginia residents might be an easy improvement.
 
-It might be possible to add a drop off on underused public and private asphalt that is far closer to Del Ray and North Old Town than any existing drop off, but far enough from any individual residence.  The Eugene Simpson Park parking lot seems attractive because it is far from homes, on and visible from a main street (Monroe Avenue), and close to shopping.  The last parking spaces on the east side of Main Line Boulevard before it dead ends between the Metro tracks and George Washington Middle School are less convenient, but are also an appropriately isolated option. 
+It might be possible to add a drop off on underused public or private asphalt that is far closer to Del Ray and North Old Town than any existing drop off, but far enough from any individual residence.  The Eugene Simpson Park parking lot seems attractive because it is far from homes, on and visible from a main street (Monroe Avenue), and close to shopping.  The last parking spaces on the east side of Main Line Boulevard before it dead ends between the Metro tracks and George Washington Middle School are less convenient, but are also an appropriately isolated option. 
 
-We would like to discuss the feasibility of incremental improvements to the program like 1) increasing the visibility of drop offs with signs directing citizens from major streets to drop off facilities and 2) locating drop off locations convenient to where large numbers of Alexandrians live, shop, or commute.
+We would like to discuss the feasibility of incremental improvements to the program like 1) improving signage and 2) locating drop off locations convenient to where large numbers of Alexandrians live, shop, or commute.
 
 We appreciate the hard work that city staff and leaders do to make Alexandria a great place to live and would welcome a chance to better understand the program and seek feasible, incremental changes that lead to cost effective improvements that better serve program users, Alexandria citizens, and the planet. 
