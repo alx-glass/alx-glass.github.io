@@ -6,7 +6,7 @@ The map below shows drop off locations, 1 mile rings around them, and population
 
 ![Glass recycling map](glass_recycling_map.png)
 
-The Arlington County Trades Center drop off in Shirlington is closer to some neighborhoods than any Alexandria drop off, but the Arlington signs and website say their drop offs are “Available to [Arlington] residents.”  Establishing reciprocity among that opens all purple can drop offs to all Northern Virginia residents might be an easy improvement.
+The Arlington County Trades Center drop off in Shirlington is closer to some neighborhoods than any Alexandria drop off, but the Arlington signs and website say their drop offs are “Available to [Arlington] residents.”  This program is a successful regional collaboration and reciprocity that opens all of the "purple can" drop offs to residents of all participating jurisdictions could improve convenience and participation.
 
 It might be possible to add a drop off on underused public or private asphalt that is far closer to Del Ray and North Old Town than any existing drop off, but far enough from any individual residence.  The Eugene Simpson Park parking lot seems attractive because it is far from homes, on and visible from a main street (Monroe Avenue), and close to shopping.  The last parking spaces on the east side of Main Line Boulevard before it dead ends between the Metro tracks and George Washington Middle School are less convenient, but are also an appropriately isolated option. 
 
