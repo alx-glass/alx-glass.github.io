@@ -46,6 +46,7 @@ Facing west, where the site backs up to athletic fields.	Facing north, where the
             <td><img src="main_line_facing_west.jpg"></td>
             <td><img src="mainline_facing_north.jpg"></td>
         </tr>
+        <tr>
             <td>Facing west, where the site backs up to athletic fields.</td>
             <td>Facing north, where the site backs up to athletic fields and the nearest buildings are more than 100 yards away.</td>
         </tr>
